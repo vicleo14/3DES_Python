@@ -5,7 +5,6 @@ from Crypto.Util.py3compat import *
 from Crypto import Random
 from Crypto.Util import Counter
 from time import time
-import Crypto.Util.Padding.pad
 class TDESCipher:
     
     def __init__(self,keySize=None,key=None,iv=None):
