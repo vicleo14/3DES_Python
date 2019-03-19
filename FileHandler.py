@@ -1,3 +1,6 @@
+#Morales Flores Victor Leonel
+#ESCOM-IPN(MX)
+#18/03/2019
 import codecs
 import base64
 

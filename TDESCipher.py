@@ -1,3 +1,7 @@
+#Morales Flores Victor Leonel
+#ESCOM-IPN(MX)
+#18/03/2019
+
 from Crypto.Cipher import DES3
 from Crypto.Random import get_random_bytes
 from Crypto.Cipher import DES3
